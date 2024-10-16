@@ -1,4 +1,5 @@
 // Seleccionar elementos...
+// Comentario Ceider Zambrano
 
 // querySelector
 
